@@ -10,16 +10,19 @@ navigation: |
 
   <nav class="sl-c-list-navigation-wrapper">
 
-  - [Preprocessing](#preprocessing)
-  - [Variables](#variables)
+- [}](#)
   - [Nesting](#nesting)
+- [}](#-1)
   - [Partials](#partials)
   - [Modules](#modules)
+  - [}](#-2)
+- [}](#-3)
   - [Mixins](#mixins)
-  - [Inheritance](#inheritance)
+- [}](#-4)
+  - [Extend/Inheritance](#extendinheritance)
+- [}](#-5)
   - [Operators](#operators)
-
-  </nav>
+- [}](#-6)
 ---
 
 <section id="preprocessing">
